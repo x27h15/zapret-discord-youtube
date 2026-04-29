@@ -36,6 +36,28 @@
 
 ## ⚙️Использование
 
+
+
+1. Через service (zapret) вырубаете стратегию свою (remove)
+
+<img width="976" height="506" alt="Image" src="https://github.com/user-attachments/assets/0058ee41-0fce-4f89-8a45-89d7e581a894" />
+(нажмите 2)
+
+
+2. Открываем папку, где лежит zapret - [скачиваем](https://github.com/x27h15/zapret-discord-youtube/blob/main/alttest.bat) после закидываем что бы было вот так 
+
+
+<img width="666" height="549" alt="Image" src="https://github.com/user-attachments/assets/9141c3f1-b05b-4e88-aaa6-7135bb8efba5" />
+
+4. Запускаете alttest.bat 
+
+
+<img width="666" height="549" alt="Image" src="https://github.com/user-attachments/assets/4129a322-b651-47f0-ac67-14a2d7867322" />
+
+
+## Браузеры
+
+
 1. Включите Secure DNS
     * В Chrome - "Использовать безопасный DNS", и выбрать поставщика услуг DNS (выбрать вариант, отличный от поставщика по умолчанию)
     * В Firefox - "Включить DNS через HTTPS, используя: Максимальную защиту", затем "Выбрать поставщика" и вписать URL поставщика вручную, например можно использовать `https://dns.google/dns-query` (т.к. поставщик Cloudflare может быть заблокирован)
